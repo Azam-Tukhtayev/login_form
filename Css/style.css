@@ -1,0 +1,89 @@
+
+body {
+    background-color: #0F1F37;
+    font-family: sans-serif;
+}
+
+.signup-box {
+    width: 360px;
+    height: 570px;
+    margin: auto;
+    background-color: #FFFFFF80;
+    border-radius: 7px;
+}
+
+h3 {
+    color: #FFFFFF;
+    padding-top: 15px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+h4 {
+    color: #FFFFFF;
+    width: 300px;
+    text-align: center;
+    border: 1px solid #FFFFFF80;
+    padding: 10px;
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.form-input     {
+    width: 300px;
+    margin-left: 20px;
+}
+
+.form-label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-bottom: 5px;
+}
+
+form input {
+    /* width: 100%; */
+    padding: 10px;
+    border: none;
+    border: 1px solid #FFFFFF80;
+    border-radius: 4px;
+    outline: none;
+    background-color: #FFFFFF80;
+}
+
+.form-control {
+    width: 100%;
+}
+
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #FFFFFF80;
+    font-size: 18px;
+    color: #FFFFFF;
+    background-color: #FFFF0099;
+}
+
+
+.parag-2 {
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+
+form a {
+    color: #FFFF0099;
+}
+
+.login h5 a {
+    color: #FFFF0099;
+    padding-left: 150px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}
