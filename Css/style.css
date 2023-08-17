@@ -1,4 +1,3 @@
-
 body {
     background-color: #0F1F37;
     font-family: sans-serif;
@@ -56,7 +55,7 @@ form input {
     width: 100%;
 }
 
-input[type="button"]{
+.form-button {
     width: 320px;
     height: 35px;
     margin-top: 20px;
@@ -78,6 +77,10 @@ input[type="button"]{
 
 form a {
     color: #FFFF0099;
+}
+
+.form-checkbox {
+    margin-top: 20px;
 }
 
 .login h5 a {
